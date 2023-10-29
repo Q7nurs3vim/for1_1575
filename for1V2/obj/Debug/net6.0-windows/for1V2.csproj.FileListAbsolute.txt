@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\bin\Debug\net6.0-windows\for1V2.exe
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\bin\Debug\net6.0-windows\for1V2.deps.json
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\bin\Debug\net6.0-windows\for1V2.runtimeconfig.json
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\bin\Debug\net6.0-windows\for1V2.dll
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\bin\Debug\net6.0-windows\for1V2.pdb
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.Form1.resources
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.AssemblyInfo.cs
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.dll
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\refint\for1V2.dll
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.pdb
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\for1V2.genruntimeconfig.cache
+C:\Users\user\Desktop\nursevim\for1V2\for1V2\obj\Debug\net6.0-windows\ref\for1V2.dll
